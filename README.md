@@ -43,6 +43,12 @@ HTTP Status 200 OK - Statistics generated</br>
 
 HTTP Status 404 NOT FOUND - Statistics not found for the last 60 seconds</br>
 
+{</br>
+    "timestamp": "1556495678692",</br>
+    "message": "STATISTICS_NOT_FOUND",</br>
+    "details": "There are no statistics for the last 60 seconds"</br>
+}</br>
+
 <b><h2>Docker commands</h2></b>
 
 <i><h3>Dockerfile</h3></i>
